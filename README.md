@@ -1,3 +1,3 @@
 # State documentation
 
-[API Reference](./api-reference)
+[API Reference](https://elttob.github.io/rbxmodule-state-docs/api-reference)
